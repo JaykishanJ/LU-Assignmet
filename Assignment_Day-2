@@ -1,16 +1,3 @@
 # LU-Assignmet
 Python for beginners assignments  
 
-# this is regarding Assignment 2 
-
-import random 
-
-MaxTickits=int(input("Enter number of tickets(make sure to enter integer number only):"))
-Peoples=[]
-
-for i in range(MaxTickits):
-  name=(input("Enter the name of peoples:-  "))
-  Peoples.append(name)
-print("All peoples",Peoples)
-n=random.randint(0,MaxTickits-1)
-print("\n here is our winner",Peoples[n])
