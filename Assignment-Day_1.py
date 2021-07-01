@@ -14,5 +14,4 @@ Multipication=A*B
 Division=A/B
 print("Substracton is:",Substraction)
 print("Multipication is:",Multipication)
-print("Division is:",Division15
-      )
+print("Division is:",Division)
